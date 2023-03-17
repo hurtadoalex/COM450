@@ -1,0 +1,5 @@
+C:\Users\Alex\Desktop\COM450\Practica\Combinatoria\combinatoria\combinatoria\obj\Debug\net6.0\combinatoria.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\COM450\Practica\Combinatoria\combinatoria\combinatoria\obj\Debug\net6.0\combinatoria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Desktop\COM450\Practica\Combinatoria\combinatoria\combinatoria\obj\Debug\net6.0\combinatoria.AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\COM450\Practica\Combinatoria\combinatoria\combinatoria\obj\Debug\net6.0\combinatoria.AssemblyInfo.cs
+C:\Users\Alex\Desktop\COM450\Practica\Combinatoria\combinatoria\combinatoria\obj\Debug\net6.0\combinatoria.csproj.CoreCompileInputs.cache
