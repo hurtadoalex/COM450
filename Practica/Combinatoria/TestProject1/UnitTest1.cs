@@ -22,7 +22,7 @@ public class CombinatoriaTests
     [Test]
     public void Combinatoria_5_3_Devuelve_10()
     {
-        
+
         int n = 5;
         int k = 3;
 
